@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --devtool source-map --hot --inline --content-base public --history-api-fallback",
     "production": "cross-env NODE_ENV=production node_modules/.bin/webpack -p --config webpack.production.config.js",
     "bundle": "node_modules/.bin/webpack -p",
-    "lint": "eslint src"
+    "lint": "eslint app"
   },
   "author": "",
   "license": "ISC",
