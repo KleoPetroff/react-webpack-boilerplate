@@ -40,7 +40,7 @@
     "eslint-config-airbnb": "15.0.1",
     "eslint-loader": "^1.8.0",
     "eslint-plugin-import": "2.6.0",
-    "eslint-plugin-jsx-a11y": "5.1.0",
+    "eslint-plugin-jsx-a11y": "6.0.1",
     "eslint-plugin-react": "7.1.0",
     "extract-text-webpack-plugin": "2.1.2",
     "file-loader": "0.11.2",
