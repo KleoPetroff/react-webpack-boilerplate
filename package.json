@@ -31,7 +31,7 @@
     "babel-preset-react-boilerplate": "1.1.1",
     "babel-preset-react-hmre": "1.1.1",
     "babel-preset-stage-2": "6.24.1",
-    "chai": "4.1.0",
+    "chai": "4.1.1",
     "chai-enzyme": "0.8.0",
     "copy-webpack-plugin": "4.0.1",
     "css-loader": "0.28.4",
