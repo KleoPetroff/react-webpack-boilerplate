@@ -54,7 +54,7 @@
     "eslint-loader": "1.8.0",
     "eslint-plugin-import": "2.8.0",
     "eslint-plugin-jsx-a11y": "5.1.0",
-    "eslint-plugin-react": "7.2.0",
+    "eslint-plugin-react": "7.5.0",
     "extract-text-webpack-plugin": "3.0.2",
     "file-loader": "1.1.4",
     "html-webpack-plugin": "2.30.0",
