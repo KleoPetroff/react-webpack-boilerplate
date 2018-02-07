@@ -77,6 +77,6 @@
     "style-loader": "0.19.1",
     "url-loader": "0.6.2",
     "webpack": "3.10.0",
-    "webpack-dev-server": "2.9.6"
+    "webpack-dev-server": "2.10.0"
   }
 }
