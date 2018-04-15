@@ -1,5 +1,5 @@
-$color: #262828;
+@import '~pattern-library/core/pattern-library/headers';
 
 body {
-  color: $color;
+  color: text-color(normal);
 }
