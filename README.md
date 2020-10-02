@@ -4,7 +4,7 @@
 
 :warning: :warning: :warning: 
 
-As of 29.12.2018, the project is **DEPRECATED** and no further development is planned. If you are looking for an alternative, check [create-react-app](https://github.com/facebook/create-react-app).
+As of 29.12.2018, the project is **DEPRECATED** and no further development is planned. If you are looking for an alternatives, check [create-react-app](https://github.com/facebook/create-react-app).
 
 Simple and optimized React boilerplate. It includes: 
 
@@ -19,7 +19,7 @@ Simple and optimized React boilerplate. It includes:
 - [x] SASS support
 - [x] Separate CSS stylesheets generation
 - [x] Automatic HTML generation
-- [x] Production Config
+- [x] Production Configuration
 - [x] Custom Babel Preset with Decorators, Class Properties, Rest/Spread operator support
 - [x] Export Separate Vendor Files
 
